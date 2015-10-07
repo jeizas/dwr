@@ -9,7 +9,6 @@
 	<meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
 	<meta http-equiv="description" content="This is my page">
   </head>
-  
   <body>
     <div id="orderNotice"></div>
     <a href="/dwr/chat/toChat.action">进入聊天室>></a>
