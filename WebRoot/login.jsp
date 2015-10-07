@@ -7,7 +7,6 @@
 <title>用户登录</title>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript">
-
 	document.onkeydown=toLogin;
 	function toLogin(){
 		if (event.keyCode == 13){
