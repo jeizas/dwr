@@ -10,6 +10,7 @@
 	<meta http-equiv="description" content="This is my page">
   </head>
   <body>
+  
     <div id="orderNotice"></div>
     <a href="/dwr/chat/toChat.action">进入聊天室>></a>
   </body>
