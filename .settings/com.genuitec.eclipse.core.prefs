@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/semantic-ui/semantic.min.js,WebRoot/js,src/struts.xml,src/conf/ehcache.xml,src/conf/applicationContext.xml,WebRoot/static/js/jquery.js
+validator.Unchecked=
