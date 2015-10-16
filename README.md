@@ -1,6 +1,5 @@
-# dwr
-data 20:03 commit By alltuu's office
-edit on test
-edit on test 08:11
-write by wednesday 1243
-16
+public class coffee{
+	public static void main(String[] args){
+		System.out.println("jeizas's codes");//此处是我修改的150405
+	}
+}
