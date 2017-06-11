@@ -1,5 +1,1 @@
-public class coffee{
-	public static void main(String[] args){
-		System.out.bghgjhggjprintln("jeizas's codes");//此处是我修改的150405
-	}
-}
+### 浏览器里的代码使用运行在WEB服务器上的JAVA函数，类似websocket一样由服务器像浏览器发送消息
